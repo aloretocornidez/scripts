@@ -1,0 +1,250 @@
+Predictor: BiModeBP  Benchmark: a2time01
+sim_seconds                                  0.024978                       # Number of seconds simulated
+system.cpu.iew.branch_mispredict_rate        1.350332                       # Percentage of branch mispredicts
+system.cpu.iew.branch_percentage            13.449005                       # Percentage of branches executed
+system.cpu.ipc                               1.813961                       # IPC: Instructions Per Cycle
+system.cpu.ipc_total                         1.813961                       # IPC: Total IPC of All Threads
+
+
+
+
+Predictor: LocalBP  Benchmark: a2time01
+sim_seconds                                  0.025011                       # Number of seconds simulated
+system.cpu.iew.branch_mispredict_rate        1.409868                       # Percentage of branch mispredicts
+system.cpu.iew.branch_percentage            13.447754                       # Percentage of branches executed
+system.cpu.ipc                               1.811573                       # IPC: Instructions Per Cycle
+system.cpu.ipc_total                         1.811573                       # IPC: Total IPC of All Threads
+
+
+
+
+Predictor: MultiperspectivePerceptron8KB  Benchmark: a2time01
+sim_seconds                                  0.027234                       # Number of seconds simulated
+system.cpu.iew.branch_mispredict_rate        3.392423                       # Percentage of branch mispredicts
+system.cpu.iew.branch_percentage            13.370486                       # Percentage of branches executed
+system.cpu.ipc                               1.663704                       # IPC: Instructions Per Cycle
+system.cpu.ipc_total                         1.663704                       # IPC: Total IPC of All Threads
+
+
+
+
+Predictor: MultiperspectivePerceptron64KB  Benchmark: a2time01
+sim_seconds                                  0.039826                       # Number of seconds simulated
+system.cpu.iew.branch_mispredict_rate       15.250938                       # Percentage of branch mispredicts
+system.cpu.iew.branch_percentage            12.912619                       # Percentage of branches executed
+system.cpu.ipc                               1.137716                       # IPC: Instructions Per Cycle
+system.cpu.ipc_total                         1.137716                       # IPC: Total IPC of All Threads
+
+
+
+
+Predictor: TournamentBP  Benchmark: a2time01
+sim_seconds                                  0.024524                       # Number of seconds simulated
+system.cpu.iew.branch_mispredict_rate        0.907949                       # Percentage of branch mispredicts
+system.cpu.iew.branch_percentage            13.447789                       # Percentage of branches executed
+system.cpu.ipc                               1.847538                       # IPC: Instructions Per Cycle
+system.cpu.ipc_total                         1.847538                       # IPC: Total IPC of All Threads
+
+
+
+
+Predictor: BiModeBP  Benchmark: bitmnp01
+sim_seconds                                  0.051702                       # Number of seconds simulated
+system.cpu.iew.branch_mispredict_rate        3.164160                       # Percentage of branch mispredicts
+system.cpu.iew.branch_percentage             5.907185                       # Percentage of branches executed
+system.cpu.ipc                               1.208861                       # IPC: Instructions Per Cycle
+system.cpu.ipc_total                         1.208861                       # IPC: Total IPC of All Threads
+
+
+
+
+Predictor: LocalBP  Benchmark: bitmnp01
+sim_seconds                                  0.051864                       # Number of seconds simulated
+system.cpu.iew.branch_mispredict_rate        5.185249                       # Percentage of branch mispredicts
+system.cpu.iew.branch_percentage             5.901272                       # Percentage of branches executed
+system.cpu.ipc                               1.205078                       # IPC: Instructions Per Cycle
+system.cpu.ipc_total                         1.205078                       # IPC: Total IPC of All Threads
+
+
+
+
+Predictor: MultiperspectivePerceptron8KB  Benchmark: bitmnp01
+sim_seconds                                  0.051797                       # Number of seconds simulated
+system.cpu.iew.branch_mispredict_rate        4.377692                       # Percentage of branch mispredicts
+system.cpu.iew.branch_percentage             5.910719                       # Percentage of branches executed
+system.cpu.ipc                               1.206644                       # IPC: Instructions Per Cycle
+system.cpu.ipc_total                         1.206644                       # IPC: Total IPC of All Threads
+
+
+
+
+Predictor: MultiperspectivePerceptron64KB  Benchmark: bitmnp01
+sim_seconds                                  0.052448                       # Number of seconds simulated
+system.cpu.iew.branch_mispredict_rate        7.998997                       # Percentage of branch mispredicts
+system.cpu.iew.branch_percentage             5.886929                       # Percentage of branches executed
+system.cpu.ipc                               1.191661                       # IPC: Instructions Per Cycle
+system.cpu.ipc_total                         1.191661                       # IPC: Total IPC of All Threads
+
+
+
+
+Predictor: TournamentBP  Benchmark: bitmnp01
+sim_seconds                                  0.050612                       # Number of seconds simulated
+system.cpu.iew.branch_mispredict_rate        0.548715                       # Percentage of branch mispredicts
+system.cpu.iew.branch_percentage             5.925294                       # Percentage of branches executed
+system.cpu.ipc                               1.234894                       # IPC: Instructions Per Cycle
+system.cpu.ipc_total                         1.234894                       # IPC: Total IPC of All Threads
+
+
+
+
+Predictor: BiModeBP  Benchmark: cacheb01
+sim_seconds                                  0.011008                       # Number of seconds simulated
+system.cpu.iew.branch_mispredict_rate        1.006164                       # Percentage of branch mispredicts
+system.cpu.iew.branch_percentage             9.448938                       # Percentage of branches executed
+system.cpu.ipc                               1.898307                       # IPC: Instructions Per Cycle
+system.cpu.ipc_total                         1.898307                       # IPC: Total IPC of All Threads
+
+
+
+
+Predictor: LocalBP  Benchmark: cacheb01
+sim_seconds                                  0.011004                       # Number of seconds simulated
+system.cpu.iew.branch_mispredict_rate        0.990494                       # Percentage of branch mispredicts
+system.cpu.iew.branch_percentage             9.448516                       # Percentage of branches executed
+system.cpu.ipc                               1.898981                       # IPC: Instructions Per Cycle
+system.cpu.ipc_total                         1.898981                       # IPC: Total IPC of All Threads
+
+
+
+
+Predictor: MultiperspectivePerceptron8KB  Benchmark: cacheb01
+sim_seconds                                  0.011146                       # Number of seconds simulated
+system.cpu.iew.branch_mispredict_rate        1.384483                       # Percentage of branch mispredicts
+system.cpu.iew.branch_percentage             9.420379                       # Percentage of branches executed
+system.cpu.ipc                               1.874835                       # IPC: Instructions Per Cycle
+system.cpu.ipc_total                         1.874835                       # IPC: Total IPC of All Threads
+
+
+
+
+Predictor: MultiperspectivePerceptron64KB  Benchmark: cacheb01
+sim_seconds                                  0.011329                       # Number of seconds simulated
+system.cpu.iew.branch_mispredict_rate        1.921814                       # Percentage of branch mispredicts
+system.cpu.iew.branch_percentage             9.379403                       # Percentage of branches executed
+system.cpu.ipc                               1.844657                       # IPC: Instructions Per Cycle
+system.cpu.ipc_total                         1.844657                       # IPC: Total IPC of All Threads
+
+
+
+
+Predictor: TournamentBP  Benchmark: cacheb01
+sim_seconds                                  0.011005                       # Number of seconds simulated
+system.cpu.iew.branch_mispredict_rate        0.992576                       # Percentage of branch mispredicts
+system.cpu.iew.branch_percentage             9.448739                       # Percentage of branches executed
+system.cpu.ipc                               1.898950                       # IPC: Instructions Per Cycle
+system.cpu.ipc_total                         1.898950                       # IPC: Total IPC of All Threads
+
+
+
+
+Predictor: BiModeBP  Benchmark: mcf
+sim_seconds                                  0.040269                       # Number of seconds simulated
+system.cpu.iew.branch_mispredict_rate        2.265644                       # Percentage of branch mispredicts
+system.cpu.iew.branch_percentage            19.303198                       # Percentage of branches executed
+system.cpu.ipc                               1.552076                       # IPC: Instructions Per Cycle
+system.cpu.ipc_total                         1.552076                       # IPC: Total IPC of All Threads
+
+
+
+
+Predictor: LocalBP  Benchmark: mcf
+sim_seconds                                  0.043247                       # Number of seconds simulated
+system.cpu.iew.branch_mispredict_rate        3.966010                       # Percentage of branch mispredicts
+system.cpu.iew.branch_percentage            18.993035                       # Percentage of branches executed
+system.cpu.ipc                               1.445189                       # IPC: Instructions Per Cycle
+system.cpu.ipc_total                         1.445189                       # IPC: Total IPC of All Threads
+
+
+
+
+Predictor: MultiperspectivePerceptron8KB  Benchmark: mcf
+sim_seconds                                  0.043820                       # Number of seconds simulated
+system.cpu.iew.branch_mispredict_rate        4.148124                       # Percentage of branch mispredicts
+system.cpu.iew.branch_percentage            19.086830                       # Percentage of branches executed
+system.cpu.ipc                               1.426282                       # IPC: Instructions Per Cycle
+system.cpu.ipc_total                         1.426282                       # IPC: Total IPC of All Threads
+
+
+
+
+Predictor: MultiperspectivePerceptron64KB  Benchmark: mcf
+sim_seconds                                  0.058534                       # Number of seconds simulated
+system.cpu.iew.branch_mispredict_rate       12.815994                       # Percentage of branch mispredicts
+system.cpu.iew.branch_percentage            18.229431                       # Percentage of branches executed
+system.cpu.ipc                               1.067764                       # IPC: Instructions Per Cycle
+system.cpu.ipc_total                         1.067764                       # IPC: Total IPC of All Threads
+
+
+
+
+Predictor: TournamentBP  Benchmark: mcf
+sim_seconds                                  0.037976                       # Number of seconds simulated
+system.cpu.iew.branch_mispredict_rate        1.333731                       # Percentage of branch mispredicts
+system.cpu.iew.branch_percentage            19.340063                       # Percentage of branches executed
+system.cpu.ipc                               1.645762                       # IPC: Instructions Per Cycle
+system.cpu.ipc_total                         1.645762                       # IPC: Total IPC of All Threads
+
+
+
+
+Predictor: BiModeBP  Benchmark: libquantum
+sim_seconds                                  0.074877                       # Number of seconds simulated
+system.cpu.iew.branch_mispredict_rate        0.003324                       # Percentage of branch mispredicts
+system.cpu.iew.branch_percentage            13.559581                       # Percentage of branches executed
+system.cpu.ipc                               0.834705                       # IPC: Instructions Per Cycle
+system.cpu.ipc_total                         0.834705                       # IPC: Total IPC of All Threads
+
+
+
+
+Predictor: LocalBP  Benchmark: libquantum
+sim_seconds                                  0.074934                       # Number of seconds simulated
+system.cpu.iew.branch_mispredict_rate        0.002364                       # Percentage of branch mispredicts
+system.cpu.iew.branch_percentage            13.559560                       # Percentage of branches executed
+system.cpu.ipc                               0.834066                       # IPC: Instructions Per Cycle
+system.cpu.ipc_total                         0.834066                       # IPC: Total IPC of All Threads
+
+
+
+
+Predictor: MultiperspectivePerceptron8KB  Benchmark: libquantum
+sim_seconds                                  0.074886                       # Number of seconds simulated
+system.cpu.iew.branch_mispredict_rate        0.002430                       # Percentage of branch mispredicts
+system.cpu.iew.branch_percentage            13.559563                       # Percentage of branches executed
+system.cpu.ipc                               0.834598                       # IPC: Instructions Per Cycle
+system.cpu.ipc_total                         0.834598                       # IPC: Total IPC of All Threads
+
+
+
+
+Predictor: MultiperspectivePerceptron64KB  Benchmark: libquantum
+sim_seconds                                  0.074934                       # Number of seconds simulated
+system.cpu.iew.branch_mispredict_rate        0.002634                       # Percentage of branch mispredicts
+system.cpu.iew.branch_percentage            13.559576                       # Percentage of branches executed
+system.cpu.ipc                               0.834066                       # IPC: Instructions Per Cycle
+system.cpu.ipc_total                         0.834066                       # IPC: Total IPC of All Threads
+
+
+
+
+Predictor: TournamentBP  Benchmark: libquantum
+sim_seconds                                  0.074889                       # Number of seconds simulated
+system.cpu.iew.branch_mispredict_rate        0.002514                       # Percentage of branch mispredicts
+system.cpu.iew.branch_percentage            13.559556                       # Percentage of branches executed
+system.cpu.ipc                               0.834567                       # IPC: Instructions Per Cycle
+system.cpu.ipc_total                         0.834567                       # IPC: Total IPC of All Threads
+
+
+
+
