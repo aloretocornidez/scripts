@@ -24,7 +24,7 @@ def getArgs():
     required = parser.add_argument_group("Required Aruments")
 
     #add each required arguemtns to the 'required' group.
-    required.add_argument('-s', '--string', 't', '--text', required=True, help = 'string to extract from file.')
+    required.add_argument('t', '--text', required=True, help = 'string to extract from file.')
     required.add_argument('-f', '--fileName', required=True, help = 'path to the filename.')
     
 
@@ -42,6 +42,7 @@ def main():
     #print("In main")
     args = getArgs()
     
+
 
     
     stringExtract(text, filename)
